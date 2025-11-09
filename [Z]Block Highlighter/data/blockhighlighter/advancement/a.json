@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "cc": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "requirements": [
+        [
+            "cc"
+        ]
+    ],
+    "rewards": {
+        "function": "blockhighlighter:a"
+    }
+}
